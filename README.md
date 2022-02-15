@@ -8,6 +8,9 @@
 
 ![James's github stats](https://github-readme-stats.vercel.app/api?username=Ndblaze&show_icons=true&hide_border=true)
 
+Here are some ideas to get you started:
+
+- 📫 How to reach me: ... [Gmail] (ndubuisieze60@gmail.com)
 <!--
 **Ndblaze/Ndblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
