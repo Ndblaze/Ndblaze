@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 
 Certification
 
-<img src="images/ReactNative.jpg" width="100">
+<img src="images/ReactNative.jpg" width="300">
+<img src="images/Java.jpg" alt="Java certificate" width="300">
 
-![](images/ReactNative.jpg)
+![](<img src="images/ReactNative.jpg" width="300">)
 ![](images/Java.jpg)
 ![](images/JavaOOP.jpg)
 
