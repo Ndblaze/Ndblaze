@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 Certification
 
-![] (images/Java.jpg)
+![](images/Java.jpg)
 
 <!--
 **Ndblaze/Ndblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
