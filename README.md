@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Gmail] (ndubuisieze60@gmail.com)
 
 Certification
+
+<img src="images/ReactNative.jpg" width="100">
+
 ![](images/ReactNative.jpg)
 ![](images/Java.jpg)
 ![](images/JavaOOP.jpg)
