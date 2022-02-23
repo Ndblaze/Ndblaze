@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 
 Certification
 
-<img src="images/ReactNative.jpg" alt="React Native certificate" width="500" display="inline">
-<img src="images/Java.jpg" alt="Java certificate" width="500">
-<img src="images/JavaOOP.jpg" width="500">
+<img src="images/ReactNative.jpg" alt="React Native certificate" width="400" display="inline">
+<img src="images/Java.jpg" alt="Java certificate" width="400">
+<img src="images/JavaOOP.jpg" width="400">
 
 <!--
 **Ndblaze/Ndblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
