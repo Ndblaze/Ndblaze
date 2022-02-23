@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Gmail] (ndubuisieze60@gmail.com)
 
 Certification
-<img src="images/ReactNative.jpg" width="500"><img src="images/Java.jpg" alt="Java certificate" width="500">
-
+<img src="images/ReactNative.jpg" alt="React Native certificate" width="500" display="inline">
+<img src="images/Java.jpg" alt="Java certificate" width="500">
 <img src="images/JavaOOP.jpg" width="500">
 
 <!--
