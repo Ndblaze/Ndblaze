@@ -13,13 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Gmail] (ndubuisieze60@gmail.com)
 
 Certification
+<img src="images/ReactNative.jpg" width="500"><img src="images/Java.jpg" alt="Java certificate" width="500">
 
-<img src="images/ReactNative.jpg" width="300">
-<img src="images/Java.jpg" alt="Java certificate" width="300">
-
-![](<img src="images/ReactNative.jpg" width="300">)
-![](images/Java.jpg)
-![](images/JavaOOP.jpg)
+<img src="images/JavaOOP.jpg" width="500">
 
 <!--
 **Ndblaze/Ndblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
