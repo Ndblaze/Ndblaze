@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 Certification
 
-<div class="cmm" style="display: flex; flex-wrap: wrap;">
+<div class="cmm" style="display: flex; flex-wrap: wrap; justify-content: space-around">
 <img src="images/ReactNative.jpg" alt="React Native certificate" width="250" display="inline"/>
 <img src="images/Java.jpg" alt="Java certificate" width="250"/>
 <img src="images/JavaOOP.jpg" width="250"/>
