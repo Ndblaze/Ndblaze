@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Ndubuisi James Eze](https://ndblaze.github.io/portfolio/) ✨ ⚡
 
-**Glad to see you here!** :star_struck: ⚡ a Web Developer and Open Source Developer🚀 from Nigeria. <br> <br>
+**Glad to see you here!** :star_struck: ⚡ a Data Scientist and Open Source Developer🚀 from Nigeria. <br> <br>
 [![Linkedin Badge](https://img.shields.io/badge/-JamesEze-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ndubuisieze/)](https://www.linkedin.com/in/ndubuisieze/)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ndubuisieze60@gmail.com)](mailto:ndubuisieze60@gmail.com)
 
@@ -19,8 +19,6 @@ Certification
 <img src="images/Java.jpg" alt="Java certificate" width="250"/>
 <img src="images/JavaOOP.jpg" width="250"/>
 </div>
-
-
 
 <!--
 **Ndblaze/Ndblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
